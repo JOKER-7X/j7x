@@ -25,7 +25,6 @@ class App:
       print ("\033[1;36mfollow us on >>
         print ("\033[1;31mTelegram >> \033[1;33mhttps://t.me/J0KER_7x ")
         print ("\033[1;31mWhatApp >> \033[1;33https://chat.whatsapp.com/JoJ8DByy8x7L9NRlaBVVb7 ")
-	print ("\033[1;31mYouTube >> \033[1;33msoon ")
         text = Text('B#[C#*B#] Enter Number C#:W# ')
         page = input(text)
         try:
