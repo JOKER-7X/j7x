@@ -3,10 +3,10 @@
 
 * J7x Team (-_^)
 
-###Uploaded 2/4/2021
+* Uploaded 2/4/2021
 
 #### Install
-####[HOW TO USE..?]
+* [HOW TO USE..?]
 
 * Kali
 ```bash
