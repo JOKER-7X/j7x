@@ -1,6 +1,15 @@
 ### Joker7x-Fishing {1.0}
 ---
+V7x-Tool
+
+
+J7x Team (-_^)
+
+Uploaded 2/4/2021
+
 #### Install
+####[HOW TO USE..?]
+
 * Kali
 ```bash
 sudo apt-get install python3-pip
